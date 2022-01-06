@@ -1,3 +1,4 @@
+sмsмsмsмmx
 ---
 title: GitHub Community Guidelines
 redirect_from:
@@ -93,6 +94,7 @@ We are committed to maintaining a community where users are free to express them
     * Provide a preferred contact method for any 3rd party abuse inquiries through a SECURITY.md file in the repository (e.g. "Please create an issue on this repository for any questions or concerns"). Such a contact method allows 3rd parties to reach out to project maintainers directly and potentially resolve concerns without the need to file abuse reports.
 
   *GitHub considers the npm registry to be a platform used primarily for installation and run-time use of code, and not for research.*
+lom
 
 
 ## What happens if someone breaks the rules?
